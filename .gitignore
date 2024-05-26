@@ -3,3 +3,4 @@ saves
 dataset/
 checkpoints/
 .venv
+runs/
